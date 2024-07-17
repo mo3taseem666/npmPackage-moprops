@@ -1,0 +1,22 @@
+{
+  "name": "moprops",
+  "version": "1.0.0",
+  "description": "i will pass the props for you just give me what you want to pass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo3taseem666/npm-moProps.git"
+  },
+  "keywords": [
+    "moprops"
+  ],
+  "author": "Mo3taseem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo3taseem666/npm-moProps/issues"
+  },
+  "homepage": "https://github.com/mo3taseem666/npm-moProps#readme"
+}
